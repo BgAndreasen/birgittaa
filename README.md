@@ -1,2 +1,2 @@
-# birgittaa_website
+# birgittaa
 Personal website of Birgitta Andreasen
